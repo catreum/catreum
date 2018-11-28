@@ -53,5 +53,8 @@ CATREUM Social Media
 - Twitter : https://twitter.com/catreumoffical
 - Telegram Channel : https://t.me/chcatreumofficial
 - Telegram Group : https://t.me/catreumofficial
-- Website : 
+- Website : http://nextarium.pro/ (While)
 - Whitepaper : https://github.com/catreum/catreum/blob/master/whitepaper.pdf
+
+
+- And need to remember this is a follow-up project from the nextarium
