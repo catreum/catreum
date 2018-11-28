@@ -17,8 +17,8 @@ CATREUM Token Information
 - Token Symbol : CATR
 - Token Decimal : 8
 - Contract Address : 0xe4ca29ae2d7ea392eeec34c8aac3f6651e852d8a
-Available trade on EtherDelta : https://etherdelta.com/#0xe4ca29ae2d7ea392eeec34c8aac3f6651e852d8a-ETH
-Available trade on TokenJar.IO : https://tokenjar.io/CATR
+- Available trade on EtherDelta : https://etherdelta.com/#0xe4ca29ae2d7ea392eeec34c8aac3f6651e852d8a-ETH
+- Available trade on TokenJar.IO : https://tokenjar.io/CATR
 
 CATREUM Token Allocation
 - Initial Coin Offering : 600,000,000 (60%)
